@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902390867610",
+    "project_id": "videobot-27858",
+    "storage_bucket": "videobot-27858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902390867610:android:02069229acdbde07772123",
+        "android_client_info": {
+          "package_name": "com.videobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902390867610-ic7o0g916b4ehkpjslmclqs23b8op61p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe8Wh6vgCRu48OVJmnXpWogmTN1RjJkJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902390867610-ic7o0g916b4ehkpjslmclqs23b8op61p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
